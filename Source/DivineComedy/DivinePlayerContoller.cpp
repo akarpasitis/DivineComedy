@@ -1,5 +1,10 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
 #include "DivineComedy.h"
+#include "DivinePlayerContoller.h"
 
-IMPLEMENT_PRIMARY_GAME_MODULE( FDefaultGameModuleImpl, DivineComedy, "DivineComedy" );
+
+
+void ADivinePlayerContoller::UpdateRotation (float DeltaTime) {
+
+}
