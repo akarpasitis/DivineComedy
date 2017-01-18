@@ -26,3 +26,5 @@ The hardest for me to add was the blueprint for the halo pick-ups. Aside from ad
 https://s29.postimg.org/g4fsif2vb/halo_collection.png
 https://s29.postimg.org/6xxhv4xmv/halo_collision.png
 I tried not to ask for Nikita and Witek's help with my blueprints, but anytime there was an issue I couldn't identify, such as destructible meshes and incorrect collisions, they were there to help.
+
+All in all, it was a good experience, albeit a rocky one. Knowing what I know now, I am sure that if I could do it over with better equipment, the final product would look drastically different.
